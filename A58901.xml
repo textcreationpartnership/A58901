@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arts masterpiece or The pens glory a copy book set forth in the most legible hands extant with excellent directions for the exact and speedie writing of every hand. Invented written &amp; engraven by a lover of that noble and ingenious science James Seamer</title>
+            <author>Seamer, James.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58901</idno><idno type="EEBO-CITATION">99831400</idno>
+  <idno type="VID">35863</idno>
+  <idno type="EEBO-PROQUEST">2240891329</idno>
+  
+            <idno type="STC">Wing S2201</idno>
+            <idno type="STC">ESTC R219956</idno>
+            <idno type="PROQUEST">99831400</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831400e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2044:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arts masterpiece or The pens glory a copy book set forth in the most legible hands extant with excellent directions for the exact and speedie writing of every hand. Invented written &amp; engraven by a lover of that noble and ingenious science James Seamer</title>
+                  <author>Seamer, James.</author>
+               </titleStmt>
+               <extent>4 p., [15] leaves of plate   </extent>
+               <publicationStmt>
+                  <publisher>Sold by Samuel Keble at the Turks head in Fleet-Street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Calligraphy --  Early works to 1800.</term>
+               <term type="topical_term">Copybooks --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35863:1"/>
+            <p>ARTS MASTERPIECE OR THE PENs GLORY</p>
+            <p>A COPY BOOK Set forth in the most legible Hands Extant With excellent Directions for the exact and speedie writing of every Hand</p>
+            <p>Invented Written &amp; Engraven By a lover of that Noble and Ingenious Science.</p>
+            <p>IAMES SEAMER</p>
+            <p>Sold by Samuel Keble at the Turks head in Fleet Street.</p>
+            <pb facs="tcp:35863:2"/>
+            <pb facs="tcp:35863:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="copybook">
+            <div type="part">
+               <pb n="2" facs="tcp:35863:4"/>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> c a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l b <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> c <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d o d <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> e f f f <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> g l h i ij l l <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l m n <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> v p <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> q r r s s t s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> v u <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w w <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> x x <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> y y z z z</p>
+               <p>A B C D E F G H I K L L M N O P Q R S T V W X Y Z</p>
+               <div type="section">
+                  <p>SEAMER
+<q>
+                        <l>What's great Goliah's Spear, the sevenfold Shield.</l>
+                        <l>Scanderbeg's Sword, to one who cannot wield</l>
+                        <l>Such weapons? Or, what means a well-cut Quill</l>
+                        <l>In th'untaught hand of him that's void of Skill?</l>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:35863:5"/>
+               <l>
+                  <seg rend="decorInit">A</seg>dmire nothing for or in it selfe,</l>
+               <l>but admire all things in God,</l>
+               <l>and God in all things, who is the</l>
+               <l>Fountaine of all admirable things</l>
+               <div type="section">
+                  <p>Seamer.
+<q>
+                        <l>ADue Proposion is the Life of Aid;</l>
+                        <l>Which shewe to keep, in all, and every paid:</l>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:35863:6"/>
+               <p>A a b c d d e e f g h i k l m n o p q r s s s t v u w x y z</p>
+               <div type="section">
+                  <l>
+                     <seg rend="decorInit">B</seg>ut, what lesse then ffoole is Man, to progge, &amp; plott,</l>
+                  <l>And lavish out the Creame of all his ca<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</l>
+                  <l>To gaine poore seeming goods, which, being got,</l>
+                  <l>Make firme possession, but a Thurrowsare.</l>
+               </div>
+               <div type="section">
+                  <l>Behold if they stay, they furrow thoughts the deeper,</l>
+                  <l>And being kept with sence, they loose their sarefull keeper.</l>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:35863:7"/>
+               <p>A b c d e f g h i k l m n o p q r s t v w x y z</p>
+               <q>
+                  <l>
+                     <seg rend="decorInit">E</seg>arth walketh on the earth, glistring like gold,</l>
+                  <l>Earth goeth to the earth, sooner then it would:</l>
+                  <l>Earth buildeth on the earth, Castles &amp; Towers,</l>
+                  <l>Earth sayeth to the earth, all shall bee ours:</l>
+               </q>
+               <div type="section">
+                  <p>Seamer.</p>
+                  <q>
+                     <l>Except Repentance quickly doth ensue &amp;</l>
+                     <l>Sinnes lazie ofspring will their birth-time rue.</l>
+                  </q>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:35863:8"/>
+               <l>
+                  <seg rend="decorInit">F</seg>eare is the Primmer of a Gamsters skill;</l>
+               <l>Who feares not Bad, stands most vnarm'd to Ill:</l>
+               <l>The Ill that's wisely fear'd, is halfe withstood;</l>
+               <l>And feare of Bad is the best foyle to Good</l>
+               <div type="section">
+                  <l>Feare not the Rocks or woulds imperious waves:</l>
+                  <l>Thou climbst a Rock (my soule) a Rock that saves.</l>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:35863:9"/>
+               <p>A B C D E F G H I K L M N O P Q R S T V W X Y Z</p>
+               <q>
+                  <l>
+                     <seg rend="decorInit">H</seg>ere' the would's a Labrinth, whoso' an fractions wayes</l>
+                  <l>Are all compos'd of Rubs, and crook'd Meanders</l>
+                  <l>Noreshing here; Hoo's hurried back that stayes</l>
+                  <l>A thought, And he that goos unguided wanders.</l>
+               </q>
+               <div type="section">
+                  <l>Her way is dark; her path untrod, unev'n; p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z</l>
+                  <l>So hand's the 'way from earth; so hand's y<seg rend="sup">e</seg> way bodlea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:35863:10"/>
+               <head>IAMES SEAMER</head>
+               <p>
+                  <seg rend="decorInit">L</seg>earning is the only ornament and pretious jewell of mans life, without which no man can ever attaind vnto any honour, or preferment in a good com̄on wealth, Learne therfore' now in thy tender yeares profitable things.</p>
+               <div type="section">
+                  <q>
+                     <l>Let thy inquisitive minde great Excellency finde</l>
+                     <l>To prize it be inclin'd of whatsoever kinde</l>
+                  </q>
+                  <p>A a b c d e f g h i k l m n o p q r r s s t v w x y z</p>
+                  <p>A B C D E F G H I J K L M N O P Q R S T V W W X Y Z Z</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:35863:11"/>
+               <p>A a b c d e f g h i k l m n o p q r s s t v u w x y z &amp;</p>
+               <p>
+                  <seg rend="decorInit">O</seg> you Sonnes of Adam, you covetous Generation, what have you to doe with earthly Riches, which are neither true, nor yours, Gold and Silver are reall earth red, and white, In short, if they be yours, Carry them with you.</p>
+               <div type="section">
+                  <p>J S</p>
+                  <l>O who would trust this world, or prize what's in it,</l>
+                  <l>That gives and takes, and chops, and changes ev'ry minit?</l>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:35863:12"/>
+               <p>Two severall Loves built two severall Citties; The love of God builds a Ierusalem; The love of the world builds a Babylon: Let every one enquire of himselfe what he loves, and hee shall resolve himselfe, of whence hee is a Cittizen.</p>
+               <div type="section">
+                  <q>
+                     <l>The World's a Babylon, he that would endeavor,</l>
+                     <l>To find the way to Rest, must seek the way to leave her.</l>
+                  </q>
+                  <p>SEAMER</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:35863:13"/>
+               <q>
+                  <l>Permit the passion of my holy Rage,</l>
+                  <l>Releas my sense from this terrestriall Cage.</l>
+               </q>
+               <p>A a b c d e f g h i k l m n o p q r s s t st v u w x y z &amp;c</p>
+               <q>
+                  <l>Paules Midnight voice prevail'd; his musicks thunder</l>
+                  <l>Vnhing'd the prison doores; split boults in sunder</l>
+                  <l>And sitst thou here? and hang'st the feble wing?</l>
+                  <l>And whin'st to bee enlarg'd; Soule, learne to sing:</l>
+               </q>
+               <p>Seamer.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:35863:14"/>
+               <p>
+                  <seg rend="decorInit">A</seg>bundance of Honour is gained by Industrie.</p>
+               <p>Seamer.</p>
+               <p>A a b c d e f f g h i k l m n o p q r s t v w x y z.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:35863:15"/>
+               <head>Court</head>
+               <p>A a a B b C c c D d d <abbr>d</abbr> E e ee ff f G ḡ gg H I i <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j k k l l m m m N n n O o o p p p p Q q R r r r S s s t T t v v n w x y z &amp;c Ct &amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nonmt vmvsi <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pntos nos ffrandisen Soamor do Holtonet Bokemn</p>
+            </div>
+            <div type="part">
+               <head>Chancery</head>
+               <p>A a B b C c D d <abbr>d</abbr> E e e ff f G g g h I i ij K k l <abbr>ll</abbr> M m N n O o oo P p p̄ Q q q R r r s s s st T t tt v v w W u W u W x x y y z z x &amp;c.</p>
+               <p>Actor homo, Boelum Spectator grande Theatrum Mundus, Vita frequens Fabula, Scena dies.</p>
+               <p>Iacobns Soamor</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:35863:16"/>
+               <q>
+                  <l>The curious Penman, having trim'd his Page</l>
+                  <l>With the dead Language of his dabled Quill.</l>
+                  <l>Lets fall a heedlesse drop, then, in a Rage,</l>
+                  <l>Cashieres the fruits of his vnlucky skill.</l>
+                  <l>Ev'n so my pregnant soule in th'infant bud</l>
+                  <l>Of her best thoughts, showers down a Cole-black flood</l>
+                  <l>Of vnadvised Ills, and cancels all her Good.</l>
+               </q>
+               <p>SEAMER</p>
+            </div>
+         </div>
+         <div type="instructions">
+            <pb n="1" facs="tcp:35863:17"/>
+            <div type="part">
+               <head>To make a PEN.</head>
+               <p>HAving a Pen-knife with a smooth, thin, sharp edge, take the first or second Quill of a Goose wing, and scrape it; then hold it in your left hand with the Feather end from you, and beginning even in the Back, cut a small piece off sloping: then, to make a slit, enter the Knife in the middle of the first cut, put in a Quill, and force it up so far as you desire the slit should be in length; which done, cut a piece sloping away from the other side above the slit, and fashion the Nib, by cutting both the sides equally down; then place the Nib on the nail of your left-hand Thumb, and to end it, draw the edge into it slanting; and being half through, turn the edge almost down-right, and cut it off.</p>
+            </div>
+            <div type="part">
+               <head>To hold the Pen.</head>
+               <p>HOld the Pen in the right hand, with the hollow side downward; on the left side place your Thumb, rising in the Joynt; on the right side your middle finger, near half an inch from the end of the Nib, and your fore-finger on the top, a small distance from your Thumb.</p>
+            </div>
+            <div type="part">
+               <head>To sit to Write.</head>
+               <p>CHuse a fore-right-light, or one that comes on the left hand: Let the Board on which you write be sloping; lay your Book strait before you; sit upright, bearing your Body from the Board: Hold your head up the distance of a span from the Paper; when you are Wri<g ref="char:EOLhyphen"/>ting, turn not your head one way or other, but look right forward: draw in your right El<g ref="char:EOLhyphen"/>bow; turn your hand outward, and bear it lightly; gripe not the Pen too hard: with your left hand stay the Paper.</p>
+            </div>
+            <div type="part">
+               <head>Necessaries for Writing.</head>
+               <p>LEt your Ink be thin, such as may freely run from the Pen. Let the Paper which you write on be white, fine, and well gumm'd. For dispatch, procure a round Ruler; for certainty, a flat Ruler. At your first Writing rule double Lines with a Quill cut forked the depth of your intended Letters, or a Black-lead Pen: Rub your Paper lightly with Gum Sandrick, beaten fine, and tyed up in a Linnen Cloth; which makes the Paper bear Ink, and the Pen run smooth.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:35863:18"/>
+               <head>Directions for the second and third leaf, marked <hi>2</hi> and <hi>3.</hi>
+               </head>
+               <p>THis first leaf contains the Breaks of all the small set Secretary Letters, and an Alphabet of Capital Letters, proper to the small Letters on this leaf, and the third marked with a fi<g ref="char:EOLhyphen"/>gure of 3. This set Hand, though it be not much used, except for Indentures, Records, Deeds, <hi>&amp;c.</hi> Yet because it is a good ground for other Hands, we present you with it first.</p>
+               <p>In the imitation of this and the following Copy, with a Quill cut forked Rule double lines, to keep the Letters even at head and foot: Then, if you think fit, pounce you Paper; and ha<g ref="char:EOLhyphen"/>ving a well-cut Quill, whose Nib may agree with the breadth of down-right stroaks, begin and imitate the <hi>(a)</hi> and diligently observe, as in this, so in all Letters, what parts require a small hair stroak, and those make lightly with the edge of the Pen; and where full stroaks are re<g ref="char:EOLhyphen"/>quired, apply the flat Nib of the Pen.</p>
+               <p>When you can make each Letter well by their parts or breaks, Rule twenty four lines, and fill the first line with <hi>(a,)</hi> the second with <hi>(b,) &amp;c.</hi> and be sure to make one Letter perfectly, before you proceed to another. Thus if you make but two Letters well in a day, you will write the whole Alphabet in two Weeks compleat.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the fourth Leaf. <hi>4.</hi>
+               </head>
+               <p>THe Directions for the third Leaf being well observed, may serve for this. Both for this and other hands are, that the distance from one Letter to another in words, must be so much as the breadth of the small <hi>(n,)</hi> and the distance from one word to another must be so much as the breadth of the small <hi>(o,)</hi> the <hi>Minims;</hi> as namely, the stroaks of the <hi>(m,) (n,) &amp;c.</hi> And the Body stroaks of the long Letters must stand, or lye, all one way in a piece of Writing, carefully observing the depths, distances, full and small of every Letter.</p>
+               <p>
+                  <hi>Note,</hi> that this hand agreeth so near with that on the 8 leaf, that these Directions may serve for both.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the mixt Hands on the 5th, 6th, and 7th. Leaves.</head>
+               <p>SInce these Hands wholly depends one upon another, I would advise you to a Pen with an even Nib, a long slit, and not too hard: Rule double lines, as is directed at the beginning,
+<pb n="3" facs="tcp:35863:19"/> at a fit distance. Keep a waste Paper under your hand, whereon to try every Letter, before you write it fair: at the first write slowly and carefully; diligently observe the proportion and agreements of Letters.</p>
+               <p>In their compassing; as the <hi>a, b, d, g, o, p, q,</hi> &amp;c. which must be made with equal whites.</p>
+               <p>In their depths and lengths, keep them even at head and foot.</p>
+               <p>Keep the Stems of all Letters to an equal height.</p>
+               <p>Let all incline one way, to the right or left.</p>
+               <p>In making the heads of long Letters, begin them on the left side; then turn your Pen to a flat, and draw it down smoothly on the right side. These Rules well observed, will be suffici<g ref="char:EOLhyphen"/>ent for all these three leaves; therefore I shall proceed to give you.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the Roman Hand on the 9th and 10th Leaves.</head>
+               <p>WHen double lines are ruled, and every thing ready with a Pen of an indifferent size well cut, first imitate the small <hi>(l,) (n,)</hi> and <hi>(o,)</hi> so long, till you can make them well; then proceed to make the small Letters that bear resemblance one to another, as the <hi>c, e, a, o, g, q, d;</hi> then the <hi>b, d, f, h, k, l,</hi> and <hi>t:</hi> which Stems, or Body-stroaks, keep of an equal height.</p>
+            </div>
+            <div type="part">
+               <head>Directions for Italian Hand on the 11th Leaf.</head>
+               <p>SInce these hands depends wholly on the form of an Oval, I would advise you to use your hand to the making of larger and lesser Ovals; and must be written with a Pen that hath a clear long slit, and a long small Nib, and the hand in writing hereof must be born lightly and freely. In your imitation, observe the Rule for the likeness of Letters delivered for the <hi>Roman.</hi> In joyning, you must unite all such Letters as will naturally joyn, by small hair-stroaks drawn with the left corner of the Pen, and imitate the Copy.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the Text Hand.</head>
+               <p>FIt the Mib of your Pen to the breadth of their stroaks, the Breaks of the set-hand Letters on the second leaf will inform you how each Letter in the making is begun, continued, and finished; then on thick Paper rule double lines, according to the size of the hand, and make so
+<pb n="4" facs="tcp:35863:20"/> many strokes thereon, one by another, about the distance of those in the <hi>(m)</hi> till you can make them exactly down, or perpendicular, and draw the Pen evenly down upon a flat Nib; when you can produce such strokes cleaverly, you have half got the Mastery of the small Letters. Ob<g ref="char:EOLhyphen"/>serve to bring the <hi>Minims,</hi> and the strokes of the <hi>(b) (b) (k) (l) &amp;c.</hi> almost down to the line you write on; and taking up the Pen, turn the Nib thereof towards your left hand, and laying it flat, make the square ground strokes of the Letters, and draw their bodies even down, not permitting them to incline to the right hand, or to the left.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the Court and Chancery Hands on the 13th. Leaf.</head>
+               <p>A Pen for these Hands must have the left corner of its Nib shorter than the right; it is more tollerable for these Hands to incline toward the left, than the right hand, the breadth of the <hi>Minims,</hi> and strokes of the <hi>m, n,</hi> and <hi>u,</hi> are the best Rules for their distances one from ano<g ref="char:EOLhyphen"/>ther. Such Letters in Court-hand, whose Bodies may be conjoyned in the writing of words, must not stand at a distance when <hi>r</hi> follows <hi>o</hi> in a word, a round <hi>r</hi> must be made; and when two together follows <hi>o,</hi> the first must be round, and the last long. More might be deliver'd for these Hands; but since these are most material, and that the best Rules are good Examples, I com<g ref="char:EOLhyphen"/>mend this Leaf to your observation and practice, and wish you good success.</p>
+            </div>
+            <div type="part">
+               <head>A Receipt for Ink.</head>
+               <p>POur two Gallons of Rain-water into an Earthen Vessel that is well Leaded, or Glaz'd with<g ref="char:EOLhyphen"/>in; and infuse in it two pounds of Gum Arabick, two pounds of them Galls bruised, a pound of Copperas, and two ounces of Roch-Allum: stir it every Morning with a stick, for ten days, and then you may use it. You may vary the quantity, observing the same proportions.</p>
+            </div>
+            <div type="part">
+               <head>How to write with Gold.</head>
+               <p>POur a small quantity of Gum water into a Gold shell, and make the Gold liquid, by tem<g ref="char:EOLhyphen"/>pering the water and that together with a small new Pensil: Then with a Pen never used write therewith; and when your writing is dry, pollish it with a Wolves or Mastiff dogs tooth.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35863:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
